@@ -39,9 +39,9 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 data-warehouse-project/
 │
-├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
+├── datasets/                                   # Raw datasets used for the project (ERP and CRM data)
 
-├── docs/                               # Project documentation and architecture details
+├── docs/                                     # Project documentation and architecture details
 
 
 |  ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
